@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906755124909",
+    "project_id": "fir-cloudmnotifi",
+    "storage_bucket": "fir-cloudmnotifi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906755124909:android:3e6a35e5cf94d47ad22024",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloudmnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906755124909-i4a75f1e1o4qep0sb9405bhkfpirop5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKOzua4CRtOWDzI6NfwKwoVC-7C1S0UA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906755124909-i4a75f1e1o4qep0sb9405bhkfpirop5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
